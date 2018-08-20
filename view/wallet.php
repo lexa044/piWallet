@@ -63,7 +63,6 @@ if ($admin)
 <p style="font-size:1em;"><?php echo $lang['WALLET_SUPPORTNOTE']; ?></p>
 <br />
 <p><strong><?php echo $lang['WALLET_SEND']; ?></strong></p>
-<button type="button" class="btn btn-default" id="donate">Donate to <?=$fullname?> wallet's owner!</button><br />
 <p id="donateinfo" style="display: none;">Type the amount you want to donate and click <strong>Withdraw</strong></p>
 <form action="index.php" method="POST" class="clearfix" id="withdrawform">
     <input type="hidden" name="action" value="withdraw" />

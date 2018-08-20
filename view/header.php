@@ -131,5 +131,5 @@
 			</div><!-- /.container-fluid -->
         </nav>
         
-        <div class="jumbotron" style="background-color:#ffe6ad">
+        <div class="jumbotron" style="background-color:#2e3858">
             <div class="container">

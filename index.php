@@ -143,7 +143,7 @@ if (!empty($_SESSION['user_session'])) {
                 header("Location: index.php");
                 break;
                 case "support":
-                $error['message'] = "Please contact support via email at $support";
+                $error['message'] = "Save your Support Key apperaring on the top left corner";
                 echo "Support Key: ";
                 echo $_SESSION['user_supportpin'];
                 break;

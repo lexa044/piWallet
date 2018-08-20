@@ -1,5 +1,6 @@
 <?php if (!defined("IN_WALLET")) { die("Auth Error"); } ?>
-                <h1><?php echo $lang['PAGE_HEADER']; ?></h1>
+                <!--  <h1><?php echo $lang['PAGE_HEADER']; ?></h1> -->
+                <img src="assets/css/betchip-logo-header-alpha.png" alt="Betchip Logo" class="center">
                 <?php
                 if (!empty($error))
                 {
